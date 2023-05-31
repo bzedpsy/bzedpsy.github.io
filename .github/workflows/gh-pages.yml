@@ -1,4 +1,3 @@
-# https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages
 name: Deploy GitHub Pages
 
 on:
