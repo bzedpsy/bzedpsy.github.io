@@ -74,7 +74,7 @@ sections:
           company_url: 'https://www.gc.cuny.edu/educational-psychology'
           # company_logo: org-gc
           location: New York City, NY
-          date_start: '2023-08'
+          date_start: '2023-08-24'
           date_end: ''
           # description: |2-
           #     Responsibilities include:
@@ -87,8 +87,8 @@ sections:
           company_url: 'https://moprevention.org/'
           # company_logo: org-x
           location: Columbia, MO
-          date_start: '2021-08'
-          date_end: '2023-08'
+          date_start: '2021-08-01'
+          date_end: '2023-08-23'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
