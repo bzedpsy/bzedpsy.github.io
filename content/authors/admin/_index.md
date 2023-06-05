@@ -26,8 +26,11 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Causal Inference
+  - Causal Learning and Inference
   - Multilevel Modeling
+  - Distributional Regression
+  - Meta-Analysis
+  - Learning-Related Behaviors
 
 # Education to show in About widget
 education:
@@ -76,5 +79,5 @@ email: ''
 highlight_name: true
 ---
 
-Bixi Zhang is an incoming Assistant Professor in the Ph.D. Program in Educational Psychology’s Quantitative specialization. Her methodological work focuses on the development of methods for causal discovery and learning, and the applications of robust methods in causal inference and multilevel modeling (including meta-analysis) in educational, psychological, and social sciences. She is also interested in investigating the associations between student behaviors (e.g., learning-related behaviors, problem behaviors) and performance outcomes in childhood education. Before joining in CUNY, she worked as a postdoctoral fellow of methodology at the Missouri Prevention Science Institute, located at the University of Missouri.
-{style="text-align: justify;"}
+I am an incoming Assistant Professor in the Ph.D. Program in Educational Psychology’s Quantitative specialization at CUNY Graduate Center. My methodological work focuses on the development of methods for causal discovery and learning, and the applications of robust methods in causal inference and multilevel modeling (including meta-analysis) in educational, psychological, and social sciences. I am also interested in investigating the associations between student behaviors (e.g., learning-related behaviors, problem behaviors) and performance outcomes in childhood education. Before joining in CUNY, I worked as a postdoctoral fellow of methodology at the Missouri Prevention Science Institute, located at the University of Missouri.
+{style="text-align: left;"}
