@@ -35,12 +35,12 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  # - block: about.biography
-  #   id: about
-  #   content:
-  #     title: Biography
-  #     # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: admin
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   # - block: features
   #   content:
   #     title: Skills
@@ -57,41 +57,41 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Aug 2023
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Incoming Assistant Professor in Educational Psychology
+          company: Graduate Center, The City University of New York (CUNY)
+          company_url: 'https://www.gc.cuny.edu/educational-psychology'
+          # company_logo: org-gc
+          location: New York City, NY
+          date_start: '2023-08'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Postdoctoral Fellow in Quantitative Methods
+          company: Missouri Prevention Science Institute (MPSI), University of Missouri
+          company_url: 'https://moprevention.org/'
+          # company_logo: org-x
+          location: Columbia, MO
+          date_start: '2021-08'
+          date_end: '2023-08'
+          # description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
