@@ -280,4 +280,55 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
+  - block: collection
+    id: software
+    content:
+      title: software
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - software
+        exclude_featured: true
+    design:
+      columns: '2'
+  - block: experience
+    id: teaching
+    content:
+      title: Teaching
+      items:
+        - title: Instructor
+          company: CUNY Graduate Center
+        #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
+        #   # company_logo: org-gc
+          location: New York, NY
+          date_start: '2023-08-01'
+          date_end: '2023-12-01'
+          description: |2-
+            * EPSY 83300 The General Linear Model (Graduate level)
+        - title: Instructor
+          company: University of Missouri
+        #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
+        #   # company_logo: org-gc
+          location: Columbia, MO
+          date_start: '2022-08-01'
+          date_end: '2022-12-01'
+          description: |2-
+            * ESC_PS 8850 Quantitative Foundations in Education Research (Graduate level)
+        - title: Graduate Teaching Assistant
+          company: Michigan State University
+        #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
+        #   # company_logo: org-gc
+          location: East Lansing, MI
+          date_start: '2018-01-01'
+          date_end: '2020-12-01'
+          description: |2-
+            * CEP 932 Quantitative Methods in Educational Research I (Graduate level)
+            * CEP 933 Quantitative Methods in Educational Research II (Graduate level)
+            * CEP 934 Multivariate Analysis (Graduate level)
+
+    design:
+      columns: '2'
 ---

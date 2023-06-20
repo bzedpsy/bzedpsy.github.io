@@ -46,31 +46,37 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: '/#contact'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
-#     label: Follow me on Twitter
-#     display:
-#       header: true
-#   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#     icon_pack: fas
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
-#   - icon: linkedin
-#     icon_pack: fab
-#     link: https://www.linkedin.com/
-#   # Link to a PDF of your resume/CV.
-#   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-#   # and uncomment the lines below.
-#   - icon: cv
-#     icon_pack: ai
-#     link: uploads/resume.pdf
+social:
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=2qw5R6YAAAAJ&hl=en&oi=ao
+  - icon: osf
+    icon_pack: ai
+    link: https://osf.io/rn68u
+  - icon: cv
+    icon_pack: ai
+    link: https://www.dropbox.com/s/27wherrmx79001b/CV2023_BZ.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
