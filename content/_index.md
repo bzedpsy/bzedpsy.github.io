@@ -283,7 +283,7 @@ sections:
   - block: collection
     id: software
     content:
-      title: software
+      title: Software
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
