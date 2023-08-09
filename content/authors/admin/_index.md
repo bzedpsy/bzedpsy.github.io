@@ -14,7 +14,7 @@ last_name: Zhang
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor at CUNY Gradate Center
+role: Assistant Professor at CUNY Graduate Center
 
 # Organizations/Affiliations to show in About widget
 organizations:
