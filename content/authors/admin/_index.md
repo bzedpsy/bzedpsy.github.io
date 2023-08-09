@@ -47,9 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: '/#bixi.zhang90@gc.cuny.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -76,7 +76,7 @@ social:
     link: https://osf.io/rn68u
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/s/27wherrmx79001b/CV2023_BZ.pdf?dl=0
+    link: https://www.dropbox.com/scl/fi/glqnneegz29hj6w7ngx7v/CV2023_AP_pub.pdf?rlkey=g1su5w5uqj1tu96ameo5a3hht&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
