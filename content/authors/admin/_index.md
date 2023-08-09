@@ -14,7 +14,7 @@ last_name: Zhang
 superuser: true
 
 # Role/position/tagline
-role: Incoming Assistant Professor at CUNY Gradate Center
+role: Assistant Professor at CUNY Gradate Center
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -85,5 +85,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an incoming Assistant Professor in the Ph.D. Program in Educational Psychology’s Quantitative specialization at  Graduate Center, The City University of New York (CUNY). My methodological work focuses on the development of methods for causal discovery and learning, and the applications of robust methods in causal inference and multilevel modeling (including meta-analysis) in educational and psychological sciences. I am also interested in investigating the associations between student behaviors (e.g., learning-related behaviors, problem behaviors) and performance outcomes in childhood education. Before joining CUNY, I worked as a postdoctoral fellow of methodology at the Missouri Prevention Science Institute, located at the University of Missouri.
+I am an Assistant Professor in the Ph.D. Program in Educational Psychology’s Quantitative specialization at The Graduate Center, City University of New York (CUNY). My methodological work focuses on the development of methods for causal discovery and learning, and the applications of robust methods in causal inference and multilevel modeling (including meta-analysis) in educational and psychological sciences. I am also interested in investigating the associations between student behaviors (e.g., learning-related behaviors, problem behaviors) and performance outcomes in childhood education. Before joining CUNY, I worked as a postdoctoral fellow of methodology at the Missouri Prevention Science Institute, located at the University of Missouri.
 {style="text-align: left;"}

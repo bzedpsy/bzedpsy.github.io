@@ -69,8 +69,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Incoming Assistant Professor in Educational Psychology
-          company: Graduate Center, The City University of New York (CUNY)
+        - title: Assistant Professor in Educational Psychology
+          company: The Graduate Center, City University of New York (CUNY)
           company_url: 'https://www.gc.cuny.edu/educational-psychology'
           # company_logo: org-gc
           location: New York City, NY
