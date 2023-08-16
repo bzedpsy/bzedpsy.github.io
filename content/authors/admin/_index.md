@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#bixi.zhang90@gc.cuny.edu'
+    link: '/#bzhang2@gc.cuny.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -76,7 +76,7 @@ social:
     link: https://osf.io/rn68u
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/scl/fi/glqnneegz29hj6w7ngx7v/CV2023_AP_pub.pdf?rlkey=g1su5w5uqj1tu96ameo5a3hht&dl=0
+    link: https://www.dropbox.com/scl/fi/faccpb358y2293ifol7m2/CV2023_AP_pub.pdf?rlkey=ztv3htdpdaschhubou9nl76kg&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
