@@ -305,9 +305,10 @@ sections:
         #   # company_logo: org-gc
           location: New York, NY
           date_start: '2023-08-01'
-          date_end: '2023-12-01'
+          # date_end: '2023-12-01'
           description: |2-
             * EPSY 83300 The General Linear Model (Graduate level)
+            * EPSY 88000 Applied Meta-Analysis (Graduate level)
         - title: Instructor
           company: University of Missouri
         #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
