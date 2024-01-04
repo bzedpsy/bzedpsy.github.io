@@ -13,5 +13,4 @@ abstract: Understanding causal mechanisms is a central goal in the behavioral, d
 
 featured: true
 
-# url_pdf:
 ---

@@ -16,5 +16,4 @@ abstract: The usefulness of mean aggregates in the analysis of intervention effe
 
 featured: true
 
-# url_pdf:
 ---
