@@ -3,7 +3,7 @@ title: "Statistical Power Analysis for Univariate Meta-Analysis: A Three-Level M
 authors:
 - B Zhang
 - S Konstantopoulos
-date: "2023-01-04"
+date: "2024-01-04"
 doi: "https://doi.org/10.1080/19345747.2023.2290544"
 
 publication_types: ["2"]
