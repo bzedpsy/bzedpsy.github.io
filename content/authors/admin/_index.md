@@ -74,9 +74,9 @@ social:
   - icon: osf
     icon_pack: ai
     link: https://osf.io/rn68u
-  - icon: cv
-    icon_pack: ai
-    link: https://www.dropbox.com/scl/fi/faccpb358y2293ifol7m2/CV2023_AP_pub.pdf?rlkey=ztv3htdpdaschhubou9nl76kg&dl=0
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://www.dropbox.com/scl/fi/faccpb358y2293ifol7m2/CV2023_AP_pub.pdf?rlkey=ztv3htdpdaschhubou9nl76kg&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -86,7 +86,5 @@ highlight_name: true
 ---
 
 I am an Assistant Professor in the Ph.D. Program in Educational Psychology’s Quantitative specialization at The Graduate Center, City University of New York (CUNY). My methodological work focuses on the development of methods for causal discovery and learning, and the applications of robust methods in causal inference and multilevel modeling (including meta-analysis) in educational and psychological sciences. I am also interested in investigating the associations between student behaviors (e.g., learning-related behaviors, problem behaviors) and performance outcomes in childhood education. Before joining CUNY, I worked as a postdoctoral fellow of methodology at the Missouri Prevention Science Institute, located at the University of Missouri.
-
-**I am seeking motivated students interested in quantitative methodology in education, psychology, or related behavioral sciences to join my research group for Fall 2025.**
 
 {style="text-align: left;"}

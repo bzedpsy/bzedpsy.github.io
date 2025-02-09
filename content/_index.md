@@ -307,6 +307,7 @@ sections:
           date_start: '2023-08-01'
           # date_end: '2023-12-01'
           description: |2-
+            * EPSY 73300 Applied Linear Regression (Graduate level)
             * EPSY 83300 The General Linear Model (Graduate level)
             * EPSY 88000 Applied Meta-Analysis (Graduate level)
         - title: Instructor
