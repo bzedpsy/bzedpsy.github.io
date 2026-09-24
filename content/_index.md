@@ -168,7 +168,7 @@ sections:
   #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   #     default_button_index: 0
   #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances below as you like.
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
   #     # To show all items, set `tag` to "*".
   #     # To filter by a specific tag, set `tag` to an existing tag name.
   #     # To remove the toolbar, delete the entire `filter_button` block.
@@ -239,7 +239,7 @@ sections:
   #     title: Contact
   #     subtitle:
   #     text: |-
-  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna, et vehicula efficitur enim.
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
   #     # Contact (add or remove contact options as necessary)
   #     email: test@example.org
   #     phone: 888 888 88 88
@@ -261,7 +261,7 @@ sections:
   #         name: DM Me
   #         link: 'https://twitter.com/Twitter'
   #       - icon: skype
-  #         icon_pack: fas
+  #         icon_pack: fab
   #         name: Skype Me
   #         link: 'skype:echo123?call'
   #       - icon: video
@@ -310,8 +310,8 @@ sections:
             * EPSY 73300 Applied Linear Regression
             * EPSY 83300 The General Linear Model
             * EPSY 88000 Applied Meta-Analysis
-            * ESPY 84500 Research Synthesis and Meta-Analysis
-            * ESPY 84200 Hierarchical Linear Model
+            * EPSY 84500 Research Synthesis and Meta-Analysis
+            * EPSY 84200 Hierarchical Linear Model
         - title: Instructor
           company: University of Missouri
         #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
