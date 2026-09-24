@@ -168,7 +168,7 @@ sections:
   #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   #     default_button_index: 0
   #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # Add or remove as many filters (`filter_button` instances below as you like.
   #     # To show all items, set `tag` to "*".
   #     # To filter by a specific tag, set `tag` to an existing tag name.
   #     # To remove the toolbar, delete the entire `filter_button` block.
@@ -239,7 +239,7 @@ sections:
   #     title: Contact
   #     subtitle:
   #     text: |-
-  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna, et vehicula efficitur enim.
   #     # Contact (add or remove contact options as necessary)
   #     email: test@example.org
   #     phone: 888 888 88 88
@@ -261,7 +261,7 @@ sections:
   #         name: DM Me
   #         link: 'https://twitter.com/Twitter'
   #       - icon: skype
-  #         icon_pack: fab
+  #         icon_pack: fas
   #         name: Skype Me
   #         link: 'skype:echo123?call'
   #       - icon: video
@@ -307,9 +307,11 @@ sections:
           date_start: '2023-08-01'
           # date_end: '2023-12-01'
           description: |2-
-            * EPSY 73300 Applied Linear Regression (Graduate level)
-            * EPSY 83300 The General Linear Model (Graduate level)
-            * EPSY 88000 Applied Meta-Analysis (Graduate level)
+            * EPSY 73300 Applied Linear Regression
+            * EPSY 83300 The General Linear Model
+            * EPSY 88000 Applied Meta-Analysis
+            * ESPY 84500 Research Synthesis and Meta-Analysis
+            * ESPY 84200 Hierarchical Linear Model
         - title: Instructor
           company: University of Missouri
         #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
@@ -318,7 +320,7 @@ sections:
           date_start: '2022-08-01'
           date_end: '2022-12-01'
           description: |2-
-            * ESC_PS 8850 Quantitative Foundations in Education Research (Graduate level)
+            * ESC_PS 8850 Quantitative Foundations in Education Research
         - title: Graduate Teaching Assistant
           company: Michigan State University
         #   # company_url: 'https://www.gc.cuny.edu/educational-psychology'
@@ -327,9 +329,9 @@ sections:
           date_start: '2018-01-01'
           date_end: '2020-12-01'
           description: |2-
-            * CEP 932 Quantitative Methods in Educational Research I (Graduate level)
-            * CEP 933 Quantitative Methods in Educational Research II (Graduate level)
-            * CEP 934 Multivariate Analysis (Graduate level)
+            * CEP 932 Quantitative Methods in Educational Research I
+            * CEP 933 Quantitative Methods in Educational Research II
+            * CEP 934 Multivariate Analysis
 
     design:
       columns: '2'
